@@ -36,6 +36,11 @@ streamlit run app.py
 
 The application automatically builds Docker images using generated files.
 
+<img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/ebc37c0a-4843-4f01-9f2d-f4c598a9aa62" />
+
+<img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/bf8c700b-054b-409d-b3a6-32e4d246865e" />
+
+
 ## 🔮 Future Improvements
 Convert into AI agent with tool-based reasoning
 Add multi-language support
